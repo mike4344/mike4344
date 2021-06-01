@@ -1,6 +1,6 @@
 ### Nice to meet you, I'm Mike  👋
 
- <img align="right" alt="GIF" src="https://github.com/mike4344/mike4344/blob/main/github.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/mike4344/mike4344/blob/main/github.gif?raw=true" width="500" height="500" />
 
 
 ## I'm a Husband, Father, Software Engineer and a Huge Nerd!
