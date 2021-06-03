@@ -6,7 +6,7 @@
 ## I'm a Husband, Father, Software Engineer and a Huge Nerd!
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my interview practice platform.
-- 🌱 I’m currently learning tensorflow js
+- 🌱 I’m currently learning Machine Learning on ML Expert
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I love Anime and Comics
